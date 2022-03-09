@@ -225,27 +225,3 @@ VALUES
   ('9', '3'),
   ('10', '2'),
   ('10', '6');
-  
-
-  {
-  "coluna_usuario": "nome_usuario",
-  "tabela_que_contem_usuario": "usuarios",
-
-  "coluna_plano": "nome_plano",
-  "tabela_que_contem_plano": "planos",
-
-  "coluna_historico_de_reproducoes": "id",
-  "tabela_que_contem_historico_de_reproducoes": "historicos",
-  
-  "coluna_seguindo_artistas": "artista_id",
-  "tabela_que_contem_seguindo_artistas": "seguindo_artistas",
-
-  "coluna_artista": "nome_artista",
-  "tabela_que_contem_artista": "artistas",
-
-  "coluna_album": "nome_album",
-  "tabela_que_contem_album": "albuns",
-
-  "coluna_cancoes": "nome_cancao",
-  "tabela_que_contem_cancoes": "cancoes"
-}
